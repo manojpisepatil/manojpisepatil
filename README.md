@@ -9,7 +9,7 @@ I'm **Manoj Pise**, a Computer Engineering student from Pune, Maharashtra. I am 
 - ⚡ Fun fact: I enjoy bike riding, traveling, and photography.
 
 ## 🏫 Education
-- **B.E. in Computer Engineering** - Savitribai Phule Pune University (Sep 2021 - May 2025)
+- **B.E. in Computer Engineering { KJCOEMR }** - Savitribai Phule Pune University (Sep 2021 - May 2025)
   - GPA: 7.6
 - **Higher Secondary (HSC)** - Janta Junior College (2021)
   - Percentage: 90%
