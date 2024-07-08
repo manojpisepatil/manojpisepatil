@@ -31,8 +31,5 @@ I'm **Manoj Pise**, a Computer Engineering student from Pune, Maharashtra. I am 
 - Bike-Riding, Traveling, Photography
 
 ## 🌐 Social Links
-- [LinkedIn](https://linkedin.com/in/manojpisepatil)
-- [GitHub](https://github.com/manojpisepatil)
 - [HackerRank](https://www.hackerrank.com/profile/manojpisepatil)
 - [LeetCode](https://leetcode.com/u/manojpisepatil/)
-- [Twitter](https://twitter.com/manojpisepatil)
