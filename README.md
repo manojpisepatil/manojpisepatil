@@ -9,12 +9,12 @@ I'm **Manoj Pise**, a Computer Engineering student from Pune, Maharashtra. I am 
 - ⚡ Fun fact: I enjoy bike riding, traveling, and photography.
 
 ## 🏫 Education
-- **B.E. in Computer Engineering { KJCOEMR }** - Savitribai Phule Pune University [ Sep 2021 - May 2025 ]
-  - GPA: 7.6
-- **Higher Secondary (HSC)** - Janta Junior College [ 2021 ]
-  - Percentage: 90%
-- **Secondary School (SSC)** - Shri Shivaji High School [ 2019 ]
-  - Percentage: 86.80%
+- **B.E. in Computer Engineering { KJCOEMR }** - Savitribai Phule Pune University *{ Sep 2021 - May 2025 }*
+  - GPA : 7.6
+- **Higher Secondary (HSC)** - Janta Junior College *{ 2021 }*
+  - Percentage : 90%
+- **Secondary School (SSC)** - Shri Shivaji High School *{ 2019 }*
+  - Percentage : 86.80%
 
 ## 💻 Technical Skills
 - **Languages:** Python, Java, C++, HTML5, CSS3, JavaScript, SQL
@@ -33,3 +33,6 @@ I'm **Manoj Pise**, a Computer Engineering student from Pune, Maharashtra. I am 
 ## 🌐 Social Links
 - [LinkedIn](https://linkedin.com/in/manojpisepatil)
 - [GitHub](https://github.com/manojpisepatil)
+- [HackerRank](https://www.hackerrank.com/profile/manojpisepatil)
+- [LeetCode](https://leetcode.com/u/manojpisepatil/)
+- [Twitter](https://twitter.com/manojpisepatil)
