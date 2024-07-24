@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Manoj Pise**
+I'm **Manoj Pise** ,
 
 - 🔭 Currently working on personal and collaborative projects to enhance my technical skills.
 - 🌱 Learning advanced concepts in Python, Java, C++, and web development technologies.
