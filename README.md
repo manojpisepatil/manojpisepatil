@@ -1,4 +1,4 @@
-# Hi there 👋  <p align="left"> <img src="https://komarev.com/ghpvc/?username=karansasane21&label=Profile%20views&color=0e75b6&style=flat" alt="karansasane21" /> </p>
+# Hi there 👋  <p > <img src="https://komarev.com/ghpvc/?username=karansasane21&label=Profile%20views&color=0e75b6&style=flat" alt="karansasane21" /> </p>
 
 I'm **Manoj Pise** ,
 
