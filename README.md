@@ -9,4 +9,5 @@ I'm **Manoj Pise** ,
 - ⚡ Fun fact: I enjoy bike riding, traveling, and photography.
 - [HackerRank](https://www.hackerrank.com/profile/manojpisepatil)
 - [LeetCode](https://leetcode.com/u/manojpisepatil/)
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojpisepatil&show_icons=true&theme=theme_name)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojpisepatil&show_icons=true&theme=radical)
