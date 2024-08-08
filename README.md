@@ -12,13 +12,13 @@ I'm **Manoj Pise** ,
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojpisepatil&show_icons=true&theme=radical)
 
-<\br>
 
-<a href="https://star-history.com/#manojpisepatil&Date">
+
+<a href="https://star-history.com/#manojpisepatil/manojpisepatil&Date">
  <picture>
-   <source media="(prefers-color-scheme:dark)" srcset="https://api.star-history.com/svg?repos=manojpisepatil&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme:light)" srcset="https://api.star-history.com/svg?repos=manojpisepatil&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=manojpisepatil&type=Date" />
+   <source media="(prefers-color-scheme:dark)" srcset="https://api.star-history.com/svg?repos=manojpisepatil/manojpisepatil&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme:light)" srcset="https://api.star-history.com/svg?repos=manojpisepatil/manojpisepatil&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=manojpisepatil/manojpisepatil&type=Date" />
  </picture>
 </a>
 
