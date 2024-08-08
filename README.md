@@ -11,14 +11,17 @@ I'm **Manoj Pise** ,
 - [LeetCode](https://leetcode.com/u/manojpisepatil/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojpisepatil&show_icons=true&theme=radical)
+
 <\br>
-<a href="https://star-history.com/#manojpisepatil/manojpisepatil&Date">
+
+<a href="https://star-history.com/#manojpisepatil&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=manojpisepatil/manojpisepatil&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=manojpisepatil/manojpisepatil&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=manojpisepatil/manojpisepatil&type=Date" />
+   <source media="(prefers-color-scheme:dark)" srcset="https://api.star-history.com/svg?repos=manojpisepatil&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme:light)" srcset="https://api.star-history.com/svg?repos=manojpisepatil&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=manojpisepatil&type=Date" />
  </picture>
 </a>
+
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manojpisepatil&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manojpisepatil&theme=dracula)](https://github.com/manojpisepatil/github-readme-activity-graph)
