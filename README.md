@@ -1,5 +1,4 @@
-# Hi there 👋  <p > <img src="https://komarev.com/ghpvc/?username=manojpisepatil&label=Profile%20views&color=0e75b6&style=flat" alt="manojpisepatil" /> </p>
-
+# Hi there 👋  <p > 
 I'm **Manoj Pise** ,
 
 - 🔭 Currently working on personal and collaborative projects to enhance my technical skills.
