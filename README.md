@@ -10,7 +10,7 @@ I'm **Manoj Pise** ,
 - 📫 How to reach me: [Email](mailto:manojpisepatil@gmail.com) | [LinkedIn](https://linkedin.com/in/manojpisepatil)
 - [HackerRank](https://www.hackerrank.com/profile/manojpisepatil)
 - [LeetCode](https://leetcode.com/u/manojpisepatil/)
-- 
+  
   </td>
   <td>
     my name 
