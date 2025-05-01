@@ -1,6 +1,6 @@
 # Hi there 👋  <p > 
 I'm **Manoj Pise** ,
-
+<table>
 <tr>
   <td>
 - 🔭 Currently working on personal and collaborative projects to enhance my technical skills.
@@ -14,5 +14,6 @@ I'm **Manoj Pise** ,
     my name 
   </td>
 </tr>
+</table>
 
 
