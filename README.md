@@ -13,7 +13,7 @@ I'm **Manoj Pise** ,
   
   </td>
   <td>
-     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
+     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="300">
 <!--     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08edbce8-99d3-4ad2-9d04-7e0cd1f02eac" width="200" height="200"> -->
   </td>
 </tr>
