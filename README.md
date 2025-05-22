@@ -1,5 +1,4 @@
-# Hi there 👋  <p > 
-I'm **Manoj Pise** ,
+# Hi there 👋  **it's manoj** <p > 
 <table>
 <tr>
   <td>
