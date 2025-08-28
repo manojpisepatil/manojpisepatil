@@ -1,4 +1,4 @@
-## ... It’s me Manoj! 👋 <p > 
+##  Manoj!  <p > 
 <table>
 <tr>
   <td>
